@@ -5,6 +5,7 @@ type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["CircleCI"]
 published: true
 published_at: 2024-10-09 09:00
+publication_name: urstudx_blog
 ---
 
 ## CircleCIのファイルを無くせばCI/CDが動かなくなると思っていた
